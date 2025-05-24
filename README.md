@@ -1,6 +1,6 @@
 # Claude Sonnet 4 国内使用指南~ （支持最新 Claude-4-Sonnet，无需翻墙~）【5月最新更新】
 
-> **更新日期：2025/05/25**              
+> **更新日期：2025/05/25**               
 
 国内轻松使用的 [**Claude 中文版**](https://chat.lanjing.pro) 教程，**无需翻墙**，**支持 Claude Sonnet 4、Claude 3.7 及中文版功能**   
 
