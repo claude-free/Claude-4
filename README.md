@@ -1,6 +1,6 @@
 # Claude Sonnet 4 国内使用指南~ （支持最新 Claude-4-Sonnet，无需翻墙~）【6月最新更新】
 
-> **更新日期：2025/06/05**                  
+> **更新日期：2025/06/10**                  
 
 国内轻松使用的 [**Claude 中文版**](https://chat.lanjing.pro) 教程，**无需翻墙**，**支持 Claude Sonnet 4、Claude 3.7 及中文版功能**   
 
@@ -39,7 +39,7 @@
 - [chat.lanjing.pro](https://chat.lanjing.pro/) - **Claude 中文版**，支持 Claude-4、Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~
 - [xsimplechat.com](https://xsimplechat.com/) - **Claude 中文站**，支持 Claude-4 Sonnet、Claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
 - [chat.lify.vip](https://chat.yixiaai.com) - **Claude 镜像网站**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **ChatGPT 镜像网站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [chat.lanjingai.org](https://chat.lanjingai.org/) - **ChatGPT 镜像网站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 - [lanjing.pro](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
